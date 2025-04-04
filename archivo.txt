@@ -1,2 +1,6 @@
 Este es el archivo principal
+<<<<<<< HEAD
 Cambio desde la rama main
+=======
+Cambio desde la rama feature
+>>>>>>> feature
